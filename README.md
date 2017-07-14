@@ -53,6 +53,7 @@ Your job is to:
 - **Create and compare two models**. One of these must be a random forest, however the other can be a classifier of your choosing: logistic regression, KNN, or SVM.
 - A Jupyter Notebook with your analysis for a peer audience of data scientists.
 - A written report directed to your (non-technical!) principal.
+- A 10-12 minute presentation outlining your process and findings for a non-technical audience.
 
  **Pro Tip:** You can find a good example report [here](https://www.dlsweb.rmit.edu.au/lsu/content/2_assessmenttasks/assess_tuts/reports_ll/report.pdf).
 
